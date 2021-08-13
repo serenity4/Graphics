@@ -4,3 +4,4 @@ repo = "git@github.com:serenity4/Graphics"
 
 [packages]
 84138a67-b342-4d33-8200-33cfcca52eb2 = { name = "SPIRV", path = "S/SPIRV" }
+be1275fa-6550-422f-8b88-a5943ccecfb8 = { name = "GeometricAlgebra", path = "G/GeometricAlgebra" }

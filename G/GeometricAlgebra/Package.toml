@@ -1,0 +1,3 @@
+name = "GeometricAlgebra"
+uuid = "be1275fa-6550-422f-8b88-a5943ccecfb8"
+repo = "git@github.com:serenity4/GeometricAlgebra.jl.git"
