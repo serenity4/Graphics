@@ -4,6 +4,7 @@ repo = "git@github.com:serenity4/Graphics"
 
 [packages]
 1147bd75-18e1-436d-adda-d58e854f897d = { name = "GeometryExperiments", path = "G/GeometryExperiments" }
+3680adac-b468-4089-a5b4-2beb8414818d = { name = "Givre", path = "G/Givre" }
 3e47a1cc-29f2-4c46-afe0-95fe1d251308 = { name = "ProceduralNoise", path = "P/ProceduralNoise" }
 796b4d30-d51d-4664-90d1-7cd8560850fa = { name = "AbstractGUI", path = "A/AbstractGUI" }
 84138a67-b342-4d33-8200-33cfcca52eb2 = { name = "SPIRV", path = "S/SPIRV" }
