@@ -3,6 +3,7 @@ uuid = "9c0812bf-1dda-4745-8bd8-51f4541a4496"
 repo = "git@github.com:serenity4/Graphics"
 
 [packages]
+1147bd75-18e1-436d-adda-d58e854f897d = { name = "GeometryExperiments", path = "G/GeometryExperiments" }
 84138a67-b342-4d33-8200-33cfcca52eb2 = { name = "SPIRV", path = "S/SPIRV" }
 afc6ba6b-17fe-44ae-937e-3208623195e7 = { name = "VulkanShaders", path = "V/VulkanShaders" }
 be1275fa-6550-422f-8b88-a5943ccecfb8 = { name = "GeometricAlgebra", path = "G/GeometricAlgebra" }
