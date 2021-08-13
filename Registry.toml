@@ -1,5 +1,5 @@
 name = "Graphics"
 uuid = "9c0812bf-1dda-4745-8bd8-51f4541a4496"
-repo = "https://github.com/serenity4/Graphics"
+repo = "git@github.com:serenity4/Graphics"
 
 [packages]
