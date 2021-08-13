@@ -3,3 +3,4 @@ uuid = "9c0812bf-1dda-4745-8bd8-51f4541a4496"
 repo = "git@github.com:serenity4/Graphics"
 
 [packages]
+84138a67-b342-4d33-8200-33cfcca52eb2 = { name = "SPIRV", path = "S/SPIRV" }

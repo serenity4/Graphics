@@ -1,0 +1,3 @@
+name = "SPIRV"
+uuid = "84138a67-b342-4d33-8200-33cfcca52eb2"
+repo = "git@github.com:serenity4/SPIRV.jl"
