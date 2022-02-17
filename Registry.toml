@@ -9,6 +9,7 @@ repo = "git@github.com:serenity4/Graphics"
 796b4d30-d51d-4664-90d1-7cd8560850fa = { name = "AbstractGUI", path = "A/AbstractGUI" }
 84138a67-b342-4d33-8200-33cfcca52eb2 = { name = "SPIRV", path = "S/SPIRV" }
 85a47980-9c8c-11e8-2b9f-f7ca1fa99fb4 = { name = "Dictionaries", path = "D/Dictionaries" }
+8fb73131-e68b-4921-b325-b6dc47707796 = { name = "Lava", path = "L/Lava" }
 afc6ba6b-17fe-44ae-937e-3208623195e7 = { name = "VulkanShaders", path = "V/VulkanShaders" }
 be1275fa-6550-422f-8b88-a5943ccecfb8 = { name = "GeometricAlgebra", path = "G/GeometricAlgebra" }
 e5a4412f-5132-4ec5-841c-0d067f41fa94 = { name = "OpenType", path = "O/OpenType" }
