@@ -11,5 +11,10 @@ SPIRV = "84138a67-b342-4d33-8200-33cfcca52eb2"
 TimerOutputs = "a759f4b9-e2f1-59dc-863e-4aeb61b1ea8f"
 Transducers = "28d57a85-8fef-5791-bfe6-a80928e7c999"
 Vulkan = "9f14b124-c50e-4008-a7d4-969b3a6cd68a"
-XCB = "16167f82-ea26-5cba-b1de-ed6fd5e30a10"
 glslang_jll = "6fd5517d-459c-5c5a-9b1a-c968b4e37a81"
+
+["0-0.1"]
+XCB = "16167f82-ea26-5cba-b1de-ed6fd5e30a10"
+
+["0.3-0"]
+UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
