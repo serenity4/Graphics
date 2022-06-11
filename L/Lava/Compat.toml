@@ -6,3 +6,16 @@ Vulkan = "0.5"
 
 ["0.3-0"]
 Vulkan = "0.6"
+
+["0.4-0"]
+Accessors = "0.1"
+AutoHashEquals = "0.2"
+ColorTypes = "0.11"
+Dictionaries = "0.3"
+FixedPointNumbers = "0.8"
+Graphs = "1"
+LRUCache = "1"
+MLStyle = "0.4"
+Reexport = "1"
+ResultTypes = "3"
+TimerOutputs = "0.5"
