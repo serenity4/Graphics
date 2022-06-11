@@ -1,0 +1,3 @@
+name = "ConcurrencyGraph"
+uuid = "cf8c6370-217a-4736-8ebc-77346b711d73"
+repo = "git@github.com:serenity4/ConcurrencyGraph.jl"
