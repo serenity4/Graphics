@@ -9,7 +9,7 @@ julia = "1.6.0-1"
 ["0-0.2"]
 MLStyle = "0.4"
 
-["0.2-0"]
+["0.2-0.3"]
 julia = "1.7.0-1"
 
 ["0.3-0"]
@@ -22,3 +22,8 @@ MLStyle = "0.4.11-0.4"
 Reexport = "1"
 ResultTypes = "3"
 SwapStreams = "0.2"
+
+["0.4-0"]
+BitMasks = "0.1"
+SnoopPrecompile = "1"
+julia = "1.10.0-1"

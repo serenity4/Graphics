@@ -21,3 +21,10 @@ SPIRV_Tools_jll = "6ac6d60f-d740-5983-97d7-a4482c0689f4"
 ["0.3-0"]
 AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
 SwapStreams = "0b152c4a-7e29-418b-9258-223db38db9d9"
+
+["0.4-0"]
+BitMasks = "a3e06817-fd65-4797-8291-16f435bc2529"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+SnoopPrecompile = "66db9d55-30c0-4569-8b51-7e840670fc0c"
+UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
