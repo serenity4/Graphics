@@ -20,5 +20,11 @@ Reexport = "1"
 ResultTypes = "3"
 TimerOutputs = "0.5"
 
-["0.5-0"]
+["0.5.0"]
 SPIRV = "0.3"
+
+["0.5.1-0"]
+BitMasks = "0.1"
+CompileTraces = "1"
+SPIRV = "0.4"
+SnoopPrecompile = "1"

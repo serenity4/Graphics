@@ -25,3 +25,8 @@ UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
 ColorTypes = "3da002f7-5984-5a60-b8a6-cbb66c0b333f"
 FixedPointNumbers = "53c48c17-4a7d-5ca2-90c5-79b7896eea93"
 LRUCache = "8ac3fa9e-de4c-5943-b1dc-09c6b5f20637"
+
+["0.5.1-0"]
+BitMasks = "a3e06817-fd65-4797-8291-16f435bc2529"
+CompileTraces = "92d184ee-bd0d-43d0-b768-a20943f3d1e3"
+SnoopPrecompile = "66db9d55-30c0-4569-8b51-7e840670fc0c"
