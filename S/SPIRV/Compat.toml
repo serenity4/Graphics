@@ -23,7 +23,13 @@ Reexport = "1"
 ResultTypes = "3"
 SwapStreams = "0.2"
 
+["0.4"]
+julia = "1.10.0-1"
+
 ["0.4-0"]
 BitMasks = "0.1"
 SnoopPrecompile = "1"
-julia = "1.10.0-1"
+
+["0.5-0"]
+CompileTraces = "1"
+julia = "1.9.0-1"
