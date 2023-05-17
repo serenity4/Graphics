@@ -8,3 +8,7 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
 Dictionaries = "85a47980-9c8c-11e8-2b9f-f7ca1fa99fb4"
 SymbolicGA = "be1275fb-6550-422f-8b88-a5943ccecfb8"
+
+["0.2.4-0"]
+CompileTraces = "92d184ee-bd0d-43d0-b768-a20943f3d1e3"
+PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
