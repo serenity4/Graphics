@@ -30,3 +30,6 @@ LRUCache = "8ac3fa9e-de4c-5943-b1dc-09c6b5f20637"
 BitMasks = "a3e06817-fd65-4797-8291-16f435bc2529"
 CompileTraces = "92d184ee-bd0d-43d0-b768-a20943f3d1e3"
 SnoopPrecompile = "66db9d55-30c0-4569-8b51-7e840670fc0c"
+
+["0.5.4-0"]
+ForwardMethods = "5fe2550f-d27e-4649-9aea-fdf9a83a1aa9"
