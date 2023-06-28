@@ -17,3 +17,4 @@ be1275fa-6550-422f-8b88-a5943ccecfb8 = { name = "GeometricAlgebra", path = "G/Ge
 cf8c6370-217a-4736-8ebc-77346b711d73 = { name = "ConcurrencyGraph", path = "C/ConcurrencyGraph" }
 ddeb515c-cee5-4296-852d-ebf70c17d219 = { name = "Diatone", path = "D/Diatone" }
 e5a4412f-5132-4ec5-841c-0d067f41fa94 = { name = "OpenType", path = "O/OpenType" }
+e6853b8d-fd15-4ade-99cd-709dcd354015 = { name = "Forward", path = "F/Forward" }
