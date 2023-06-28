@@ -13,5 +13,8 @@ SafeTestsets = "1bc83da4-3b8d-516f-aca4-4fe02f6d838f"
 CompileTraces = "92d184ee-bd0d-43d0-b768-a20943f3d1e3"
 PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
 
-["0.2.4-0"]
+["0.2.4"]
 Forward = "e6853b8d-fd15-4ade-99cd-709dcd354015"
+
+["0.2.5-0"]
+ForwardMethods = "5fe2550f-d27e-4649-9aea-fdf9a83a1aa9"
