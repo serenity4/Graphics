@@ -5,6 +5,7 @@ repo = "git@github.com:serenity4/Graphics"
 [packages]
 0c8a7d74-93ea-4f23-9ed1-b26578bfdfe6 = { name = "XKeyboard", path = "X/XKeyboard" }
 1147bd75-18e1-436d-adda-d58e854f897d = { name = "GeometryExperiments", path = "G/GeometryExperiments" }
+1768915e-f209-48c3-8e70-04c8c5555943 = { name = "Entities", path = "E/Entities" }
 3680adac-b468-4089-a5b4-2beb8414818d = { name = "Givre", path = "G/Givre" }
 3e47a1cc-29f2-4c46-afe0-95fe1d251308 = { name = "ProceduralNoise", path = "P/ProceduralNoise" }
 796b4d30-d51d-4664-90d1-7cd8560850fa = { name = "AbstractGUI", path = "A/AbstractGUI" }
