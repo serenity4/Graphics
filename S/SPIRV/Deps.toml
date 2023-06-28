@@ -31,3 +31,6 @@ UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
 
 ["0.5-0"]
 CompileTraces = "92d184ee-bd0d-43d0-b768-a20943f3d1e3"
+
+["0.5.1-0"]
+Forward = "e6853b8d-fd15-4ade-99cd-709dcd354015"
