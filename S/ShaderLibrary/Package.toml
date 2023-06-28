@@ -1,0 +1,3 @@
+name = "ShaderLibrary"
+uuid = "bd6f7047-4356-4127-96e0-7c076db9f2eb"
+repo = "git@github.com:serenity4/ShaderLibrary.jl"
