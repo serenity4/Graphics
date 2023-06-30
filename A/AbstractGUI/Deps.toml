@@ -6,3 +6,6 @@ WindowAbstractions = "e18202ca-4a7d-4de8-b056-fa6bbd7de157"
 ["0-0.1"]
 MLStyle = "d8e11817-5142-5d16-987a-aa16d5891078"
 XCB = "16167f82-ea26-5cba-b1de-ed6fd5e30a10"
+
+["0.3-0"]
+BitMasks = "a3e06817-fd65-4797-8291-16f435bc2529"
