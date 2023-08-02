@@ -12,3 +12,7 @@ SymbolicGA = "be1275fb-6550-422f-8b88-a5943ccecfb8"
 ["0.2.4-0"]
 CompileTraces = "92d184ee-bd0d-43d0-b768-a20943f3d1e3"
 PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
+
+["0.3-0"]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+StructEquality = "6ec83bb0-ed9f-11e9-3b4c-2b04cb4e219c"
