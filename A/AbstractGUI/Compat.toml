@@ -12,3 +12,6 @@ WindowAbstractions = "0.7"
 BitMasks = "0.1"
 Dictionaries = "0.3"
 julia = "1.8.0 - 1"
+
+["0.3.2 - 0"]
+GeometryExperiments = "0.4"
