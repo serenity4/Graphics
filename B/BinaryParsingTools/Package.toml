@@ -1,0 +1,3 @@
+name = "BinaryParsingTools"
+uuid = "6663bfc4-f836-4634-93ec-aee42a53a86a"
+repo = "git@github.com:serenity4/BinaryParsingTools.jl"

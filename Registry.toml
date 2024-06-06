@@ -9,6 +9,7 @@ repo = "git@github.com:serenity4/Graphics"
 1d686ed2-f4cc-40f7-813c-2f806c81b237 = { name = "Erosion", path = "E/Erosion" }
 3680adac-b468-4089-a5b4-2beb8414818d = { name = "Givre", path = "G/Givre" }
 3e47a1cc-29f2-4c46-afe0-95fe1d251308 = { name = "ProceduralNoise", path = "P/ProceduralNoise" }
+6663bfc4-f836-4634-93ec-aee42a53a86a = { name = "BinaryParsingTools", path = "B/BinaryParsingTools" }
 796b4d30-d51d-4664-90d1-7cd8560850fa = { name = "AbstractGUI", path = "A/AbstractGUI" }
 84138a67-b342-4d33-8200-33cfcca52eb2 = { name = "SPIRV", path = "S/SPIRV" }
 85a47980-9c8c-11e8-2b9f-f7ca1fa99fb4 = { name = "Dictionaries", path = "D/Dictionaries" }
