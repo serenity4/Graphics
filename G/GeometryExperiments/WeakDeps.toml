@@ -1,2 +1,5 @@
 ["0.3 - 0"]
 MakieCore = "20f20a25-4f0e-4fdf-b5d1-57303727442b"
+
+["0.4.4 - 0"]
+GLTF = "aeeaf58c-ab4d-11e9-3a9f-9b6bf58b5bc3"

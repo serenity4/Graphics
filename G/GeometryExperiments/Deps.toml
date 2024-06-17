@@ -18,3 +18,8 @@ PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
 ["0.3 - 0"]
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 StructEquality = "6ec83bb0-ed9f-11e9-3b4c-2b04cb4e219c"
+
+["0.4.4 - 0"]
+Base64 = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+StyledStrings = "f489334b-da3d-4c2e-b8f0-e476e12c162b"
