@@ -6,3 +6,9 @@ GeometryExperiments = "0.4"
 Preferences = "1.4.3 - 1"
 StyledStrings = "1.11.0 - 1"
 julia = "1.9.0 - 1"
+
+["0.1.4 - 0"]
+Accessors = "0.1.36 - 0.1"
+EzXML = "1.2.0 - 1"
+SPIRV = "0.6"
+Swizzles = "0.3"

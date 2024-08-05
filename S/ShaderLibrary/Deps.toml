@@ -20,3 +20,7 @@ Preferences = "21216c6a-2e73-6563-6e65-726566657250"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 StructEquality = "6ec83bb0-ed9f-11e9-3b4c-2b04cb4e219c"
 StyledStrings = "f489334b-da3d-4c2e-b8f0-e476e12c162b"
+
+["0.1.4 - 0"]
+EzXML = "8f5d6c58-4d21-5cfd-889c-e3ad7ee6a615"
+Swizzles = "60694085-d904-4bfc-95dc-1e0e768e9359"
