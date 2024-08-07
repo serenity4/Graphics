@@ -9,3 +9,6 @@ XCB = "16167f82-ea26-5cba-b1de-ed6fd5e30a10"
 
 ["0.3 - 0"]
 BitMasks = "a3e06817-fd65-4797-8291-16f435bc2529"
+
+["0.3.3 - 0"]
+Accessors = "7d9f7c33-5ae7-4f3b-8dc6-eff91059b697"
