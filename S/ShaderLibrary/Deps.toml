@@ -24,3 +24,6 @@ StyledStrings = "f489334b-da3d-4c2e-b8f0-e476e12c162b"
 ["0.1.4 - 0"]
 EzXML = "8f5d6c58-4d21-5cfd-889c-e3ad7ee6a615"
 Swizzles = "60694085-d904-4bfc-95dc-1e0e768e9359"
+
+["0.1.5 - 0"]
+CompileTraces = "92d184ee-bd0d-43d0-b768-a20943f3d1e3"
