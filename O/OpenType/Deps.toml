@@ -11,6 +11,9 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 ["0.1.1 - 0.1.4"]
 ColorTypes = "3da002f7-5984-5a60-b8a6-cbb66c0b333f"
 
+["0.1.12 - 0"]
+HarfBuzz_jll = "2e76f6c2-a576-52d4-95c1-20adfe4de566"
+
 ["0.1.5 - 0"]
 BinaryParsingTools = "6663bfc4-f836-4634-93ec-aee42a53a86a"
 Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
