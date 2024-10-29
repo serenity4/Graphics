@@ -9,7 +9,6 @@ Vulkan = "0.6"
 
 ["0.4 - 0"]
 Accessors = "0.1"
-ColorTypes = "0.11"
 FixedPointNumbers = "0.8"
 Graphs = "1"
 LRUCache = "1"
@@ -17,6 +16,9 @@ MLStyle = "0.4"
 Reexport = "1"
 ResultTypes = "3"
 TimerOutputs = "0.5"
+
+["0.4 - 0.5.10"]
+ColorTypes = "0.11"
 
 ["0.4 - 0.5.4"]
 AutoHashEquals = "0.2"
@@ -32,6 +34,9 @@ SPIRV = "0.4"
 BitMasks = "0.1"
 CompileTraces = "1"
 SnoopPrecompile = "1"
+
+["0.5.11 - 0"]
+ColorTypes = "0.11 - 0.12"
 
 ["0.5.2 - 0.5.6"]
 SPIRV = "0.5"
