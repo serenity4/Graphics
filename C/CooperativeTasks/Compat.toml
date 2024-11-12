@@ -2,3 +2,6 @@
 CompileTraces = "1"
 PrecompileTools = "1"
 julia = "1.8.0 - 1"
+
+["0.2.6 - 0"]
+DocStringExtensions = "0.9.3 - 0.9"
