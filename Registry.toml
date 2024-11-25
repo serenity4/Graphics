@@ -3,6 +3,7 @@ uuid = "9c0812bf-1dda-4745-8bd8-51f4541a4496"
 repo = "git@github.com:serenity4/Graphics"
 
 [packages]
+0b152c4a-7e29-418b-9258-223db38db9d9 = { name = "SwapStreams", path = "S/SwapStreams" }
 0c8a7d74-93ea-4f23-9ed1-b26578bfdfe6 = { name = "XKeyboard", path = "X/XKeyboard" }
 1147bd75-18e1-436d-adda-d58e854f897d = { name = "GeometryExperiments", path = "G/GeometryExperiments" }
 1768915e-f209-48c3-8e70-04c8c5555943 = { name = "Entities", path = "E/Entities" }
