@@ -10,7 +10,6 @@ Vulkan = "0.6"
 ["0.4 - 0"]
 Accessors = "0.1"
 FixedPointNumbers = "0.8"
-Graphs = "1"
 LRUCache = "1"
 MLStyle = "0.4"
 Reexport = "1"
@@ -21,6 +20,9 @@ ColorTypes = "0.11"
 
 ["0.4 - 0.5.12"]
 ResultTypes = "3"
+
+["0.4 - 0.5.13"]
+Graphs = "1"
 
 ["0.4 - 0.5.4"]
 AutoHashEquals = "0.2"
@@ -42,6 +44,9 @@ ColorTypes = "0.11 - 0.12"
 
 ["0.5.13 - 0"]
 ResultTypes = "3 - 4"
+
+["0.5.14 - 0"]
+Graphs = "1.12.0 - 1"
 
 ["0.5.2 - 0.5.6"]
 SPIRV = "0.5"
