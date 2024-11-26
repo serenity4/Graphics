@@ -9,14 +9,11 @@ repo = "git@github.com:serenity4/Graphics"
 1768915e-f209-48c3-8e70-04c8c5555943 = { name = "Entities", path = "E/Entities" }
 1d686ed2-f4cc-40f7-813c-2f806c81b237 = { name = "Erosion", path = "E/Erosion" }
 3680adac-b468-4089-a5b4-2beb8414818d = { name = "Anvil", path = "A/Anvil" }
-395e1342-1237-467e-82e3-e4047751dddf = { name = "C", path = "C/C" }
 3e47a1cc-29f2-4c46-afe0-95fe1d251308 = { name = "ProceduralNoise", path = "P/ProceduralNoise" }
-47d48b73-69d3-45cf-a35e-ec04f73e22fa = { name = "A", path = "A/A" }
 6663bfc4-f836-4634-93ec-aee42a53a86a = { name = "BinaryParsingTools", path = "B/BinaryParsingTools" }
 796b4d30-d51d-4664-90d1-7cd8560850fa = { name = "AbstractGUI", path = "A/AbstractGUI" }
 84138a67-b342-4d33-8200-33cfcca52eb2 = { name = "SPIRV", path = "S/SPIRV" }
 85a47980-9c8c-11e8-2b9f-f7ca1fa99fb4 = { name = "Dictionaries", path = "D/Dictionaries" }
-8c96a497-0f43-435e-97a0-27c7b1fed864 = { name = "B", path = "B/B" }
 8fb73131-e68b-4921-b325-b6dc47707796 = { name = "Lava", path = "L/Lava" }
 b96441d5-4525-4e55-9909-ccff87bff6f6 = { name = "GridHelpers", path = "G/GridHelpers" }
 bd6f7047-4356-4127-96e0-7c076db9f2eb = { name = "ShaderLibrary", path = "S/ShaderLibrary" }
