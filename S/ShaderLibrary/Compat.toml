@@ -10,6 +10,11 @@ GeometryExperiments = "0.4.11 - 0.4"
 ["0.1.12 - 0"]
 OpenType = "0.1.17 - 0.1"
 
+["0.1.14 - 0"]
+Dictionaries = "0.4.3 - 0.4"
+ForwardMethods = "1.7.0 - 1"
+MLStyle = "0.4.17 - 0.4"
+
 ["0.1.3 - 0"]
 Preferences = "1.4.3 - 1"
 StyledStrings = "1.11.0 - 1"
